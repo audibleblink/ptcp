@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/xitongsys/ptcp/ptcp"
+	"github.com/audibleblink/ptcp/ptcp"
 )
 
 func main() {

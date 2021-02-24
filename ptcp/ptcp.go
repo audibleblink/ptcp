@@ -4,8 +4,8 @@ import (
 	"sync"
 	"time"
 
-	"github.com/xitongsys/ethernet-go/header"
-	"github.com/xitongsys/ptcp/netinfo"
+	"github.com/audibleblink/ethernet-go/header"
+	"github.com/audibleblink/ptcp/netinfo"
 )
 
 var BUFFERSIZE = 65535

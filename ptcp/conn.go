@@ -6,7 +6,7 @@ import (
 	"net"
 	"time"
 
-	"github.com/xitongsys/ethernet-go/header"
+	"github.com/audibleblink/ethernet-go/header"
 )
 
 var CONNCHANBUFSIZE = 1024

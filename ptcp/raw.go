@@ -4,8 +4,8 @@ import (
 	"net"
 	"syscall"
 
-	"github.com/xitongsys/ethernet-go/header"
-	"github.com/xitongsys/ptcp/util"
+	"github.com/audibleblink/ethernet-go/header"
+	"github.com/audibleblink/ptcp/util"
 )
 
 var RAWBUFSIZE = 65535
