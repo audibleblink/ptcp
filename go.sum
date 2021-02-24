@@ -1,0 +1,4 @@
+github.com/audibleblink/ethernet-go v0.0.0-20210224174915-62800b097478 h1:si8hQsZcxZ/Q3CCF7Lg6bKeIKI4Lq1JHi0nz7B+uflc=
+github.com/audibleblink/ethernet-go v0.0.0-20210224174915-62800b097478/go.mod h1:M05ha5UinD3DLiB8X9Lrh7JQC+D96NSLbcEclgUHM7o=
+github.com/patrickmn/go-cache v2.1.0+incompatible h1:HRMgzkcYKYpi3C8ajMPV8OFXaaRUnok+kx1WdO15EQc=
+github.com/patrickmn/go-cache v2.1.0+incompatible/go.mod h1:3Qf8kWWT7OJRJbdiICTKqZju1ZixQ/KpMGzzAfe6+WQ=
